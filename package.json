@@ -4,11 +4,12 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"dev": "vite"
+		"start": "parcel index.html"
 	},
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"parcel": "^2.8.3",
 		"vite": "^4.3.3"
 	}
 }
